@@ -1,0 +1,5 @@
+mohit kumar	50	46.000000
+mohit kumar	50	11.000000
+utpal mishr	55	165.000000
+Ritik Kumar	90	11.00000
+Ritik kumar	50	7.000000
